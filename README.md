@@ -1,6 +1,6 @@
 # 🔐 Turning Curiosity into Secure Code  
 
-Hi! I'm Maki 👋  
+Hi! I'm Mahamed-Maki 👋  
 I love exploring how systems break and then figuring out how to make them stronger.  
 From building small security tools to simulating DDoS attacks on my own lab servers,  
 this is where I share my journey of learning breaking and building.  
@@ -10,11 +10,6 @@ this is where I share my journey of learning breaking and building.
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahamed-maki-saine-9930762b2/)  
 [![GitHub Followers](https://img.shields.io/github/followers/MakiSaine?label=Follow&style=for-the-badge)](https://github.com/MakiSaine)
-
----
-
-### 📊 GitHub Stats  
-![Maki's GitHub stats](https://github-readme-stats.vercel.app/api?username=MakiSaine&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -35,3 +30,4 @@ this is where I share my journey of learning breaking and building.
 ---
 
 ⭐️ *Always learning Always testing Always building*
+
