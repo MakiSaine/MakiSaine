@@ -29,5 +29,5 @@ this is where I share my journey of learning breaking and building.
 
 ---
 
-⭐️ *Always learning Always testing Always building*
+⭐️ *Always learning, Always testing, Always building*
 
