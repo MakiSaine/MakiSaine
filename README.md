@@ -9,7 +9,6 @@ this is where I share my journey of learning breaking and building.
 
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahamed-maki-saine-9930762b2/)  
-[![GitHub Followers](https://img.shields.io/github/followers/MakiSaine?label=Follow&style=for-the-badge)](https://github.com/MakiSaine)
 
 ---
 
